@@ -8,7 +8,8 @@ Universitas Jenderal Soedirman – Jurusan Informatika, Fakultas Teknik
 
 ### Pertanyaan 1 – Schematic Rangkaian
 
-![Gambar](https://drive.google.com/file/d/1sYYCZrqXGg10U3zE2Qfl7FCcDojR5a64/view?usp=drive_open)
+![Gambar]<img width="480" height="270" alt="Screenshot From 2026-04-14 21-10-19" src="https://github.com/user-attachments/assets/b262c771-df2e-40ef-8079-9a6e403b13fd" />
+
 >
 > *Keterangan: Gambar schematic menunjukkan koneksi antara pin a–g dan dp pada seven segment ke pin digital Arduino Uno sesuai Tabel 1.4, dengan resistor 220 Ohm pada setiap segmen dan GND dihubungkan ke common cathode.*
 
@@ -157,7 +158,8 @@ void loop() {
 
 ### Pertanyaan 1 – Schematic Rangkaian
 
-![Gambar](https://drive.google.com/file/d/16CBq8nWE8Pv8QfFqD4t5XOpiTwV8g54A/view)
+![Gambar]<img width="480" height="270" alt="Screenshot From 2026-04-14 21-10-31" src="https://github.com/user-attachments/assets/2d3ae8bb-6ff5-4fc7-8db5-826a3bc5c293" />
+
 >
 > *Keterangan: Gambar schematic menunjukkan koneksi seven segment ke pin Arduino (sama seperti percobaan 2A), ditambah satu push button yang terhubung antara Pin 2 Arduino dan GND. Tidak diperlukan resistor eksternal karena menggunakan INPUT_PULLUP.*
 
