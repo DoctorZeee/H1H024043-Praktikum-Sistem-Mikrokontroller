@@ -131,7 +131,7 @@ Pendekatan yang digunakan adalah **`millis()`** (bukan `delay()`) agar sistem te
 
 ### Kode Program Lengkap
 
-```arduino
+```cpp
 // ============================================================
 //  File    : modul3_serialmonitor_modifikasi.ino
 //  Modul   : 3A - Komunikasi Serial UART (Modifikasi)
@@ -537,7 +537,7 @@ Program digabungkan sehingga data ADC ditampilkan **di dua tempat sekaligus**:
 
 ### Kode Program Lengkap
 
-```arduino
+```cpp
 // ============================================================
 //  File    : modul3_i2c_uart_gabungan.ino
 //  Modul   : 3B - I2C + UART (Modifikasi Gabungan)
