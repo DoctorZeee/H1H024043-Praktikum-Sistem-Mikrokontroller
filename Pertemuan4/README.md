@@ -5,7 +5,8 @@
 ## 🖼️ Foto Rangkaian
 
 ### Foto Rangkaian Fisik
-![Foto Rangkaian 4A]
+![Foto Rangkaian 4A]<img width="2160" height="2880" alt="IMG_4185" src="https://github.com/user-attachments/assets/8a848cbe-2a8f-4c07-9303-132b897876d6" />
+
 
 ---
 
@@ -120,11 +121,13 @@ void loop() {
 ## 🖼️ Foto Rangkaian
 
 ### Foto Rangkaian Fisik
-![Foto Rangkaian 4B]
+![Foto Rangkaian 4B]<img width="2160" height="2880" alt="IMG_4189" src="https://github.com/user-attachments/assets/d09394eb-b248-451f-9853-12f4221aa1a4" />
+
 
 ## 🎥 Demo GIF
 
-![Demo LED PWM]
+![Demo LED PWM]<img width="480" height="854" alt="IMG_4188" src="https://github.com/user-attachments/assets/1edc59cb-566f-482f-a997-0b3d6ff82ec5" />
+
 
 ---
 
