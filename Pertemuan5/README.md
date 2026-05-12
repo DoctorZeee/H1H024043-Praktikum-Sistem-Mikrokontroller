@@ -14,10 +14,7 @@ Shift Akhir: B
 ## Foto Rangkaian
 
 ### Foto Rangkaian Fisik
-*(Dokumentasi foto rangkaian fisik)*
-
-### Demo Serial Monitor
-*(Dokumentasi screenshot Serial Monitor)*
+<img width="2160" height="2880" alt="IMG_4239" src="https://github.com/user-attachments/assets/ff284902-e7cc-4abf-9063-45c27f83d544" />
 
 ---
 
@@ -40,10 +37,8 @@ Untuk menambahkan task keempat, langkah pertama adalah **mendeklarasikan prototi
 ## Foto Rangkaian Modifikasi
 
 ### Foto Rangkaian Fisik
-*(Dokumentasi foto rangkaian fisik dengan potensiometer)*
+<img width="1200" height="1600" alt="Potensio" src="https://github.com/user-attachments/assets/1af99999-220b-4234-b2a6-e9b3fbd4c5a4" />
 
-### Demo GIF
-*(Dokumentasi GIF demo LED berkedip dengan kecepatan dikendalikan potensiometer)*
 
 ---
 
@@ -231,13 +226,9 @@ Ketika potensiometer diputar ke kiri (nilai ADC mendekati 0), kedua LED berkedip
 
 # Percobaan 5B — Komunikasi Task dengan Queue
 
-## Foto Rangkaian
-
-### Foto Rangkaian Fisik
-*(Dokumentasi foto rangkaian fisik dengan sensor DHT)*
-
 ### Demo Serial Monitor
-*(Dokumentasi screenshot Serial Monitor menampilkan data suhu dan kelembaban)*
+<img width="2160" height="2880" alt="IMG_6288" src="https://github.com/user-attachments/assets/31fb948a-2281-41e0-806e-f64a5e9ad1ce" />
+
 
 ---
 
@@ -259,11 +250,9 @@ Program ini **tidak berpotensi mengalami race condition** secara signifikan kare
 
 ## Foto Rangkaian Modifikasi
 
-### Foto Rangkaian Fisik
-*(Dokumentasi foto rangkaian fisik dengan sensor DHT22)*
+### Foto Rangkaian
+<img width="1920" height="1080" alt="Screenshot From 2026-05-12 23-52-10" src="https://github.com/user-attachments/assets/3a9b577c-be15-4bdd-9c80-b67c8f3548a4" />
 
-### Demo Serial Monitor
-*(Dokumentasi screenshot Serial Monitor menampilkan suhu, kelembaban, dan heat index dinamis)*
 
 ---
 
