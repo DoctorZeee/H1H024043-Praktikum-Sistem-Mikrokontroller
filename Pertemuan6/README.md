@@ -15,7 +15,10 @@ Shift Akhir: B
 
 ### Foto Rangkaian Fisik
 <!-- Tambahkan foto rangkaian di sini -->
-> 📷 *[Foto rangkaian fisik percobaan 6A]*
+<img width="2160" height="2880" alt="IMG_4371" src="https://github.com/user-attachments/assets/cbae63f3-428b-4b6f-bca3-7047b8728dc1" />
+
+### Video Demo
+<img width="480" height="854" alt="IMG_4373" src="https://github.com/user-attachments/assets/b65aae90-81fc-49cb-b9ca-cd27407aa3cd" />
 
 ---
 
@@ -55,10 +58,6 @@ Keyword `volatile` memberitahu compiler bahwa nilai variabel `ledState` dapat be
 ---
 
 ### 5. Modifikasi: Mode Interrupt RISING, CHANGE, dan LOW
-
-## Foto Rangkaian Modifikasi
-<!-- Tambahkan foto rangkaian modifikasi di sini -->
-> 📷 *[Foto rangkaian fisik percobaan 6A modifikasi]*
 
 **Penjelasan perbedaan mode interrupt:**
 
@@ -129,7 +128,7 @@ void loop() {
 
 ### Foto Rangkaian Fisik
 <!-- Tambahkan foto rangkaian di sini -->
-> 📷 *[Foto rangkaian fisik percobaan 6B]*
+<img width="1600" height="1200" alt="594549490-f9ac671f-79a9-41ba-97b6-9fdd6027005f" src="https://github.com/user-attachments/assets/765e436d-0466-40f2-89e9-5f983d49dcf2" />
 
 ---
 
@@ -164,7 +163,11 @@ void loop() {
 
 ### Foto Rangkaian Fisik
 <!-- Tambahkan foto rangkaian modifikasi di sini -->
-> 📷 *[Foto rangkaian fisik percobaan 6B modifikasi]*
+<img width="2160" height="2880" alt="IMG_4377" src="https://github.com/user-attachments/assets/7299f9b7-621a-43ec-997a-b356417f80c4" />
+
+### Demo Rangkaian
+<img width="480" height="854" alt="IMG_4374" src="https://github.com/user-attachments/assets/d7da858b-afe1-4258-aca4-fa47c03281ed" />
+
 
 ```cpp
 #include <Arduino.h>
